@@ -109,10 +109,10 @@ function output_file($path, $append = true, $content = "") {
 	}
 }
 
-output_file('details.csv', false);
+output_file('output.csv', false);
 output_file('invalid.txt', false);
 $input = fopen(dirname(__FILE__) . '/urls.csv', 'r');
-$output = fopen(dirname(__FILE__) . '/details.csv', 'a');
+$output = fopen(dirname(__FILE__) . '/output.csv', 'a');
 fputcsv(
 	$output,
 	[
