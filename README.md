@@ -59,8 +59,16 @@ download('urls.csv', apps_url);
 
 ## Preview
 
+- Copy the above Script and put on the Browser console
+
 [![](screenshot/urls.png)](https://github.com/crsiwal/Google-Play-Store-Scraper-PHP)
+
+- Hit the enter button in browser console with above script. This will make a csv file and give a popup for save this file.
+
 [![](screenshot/download.png)](https://github.com/crsiwal/Google-Play-Store-Scraper-PHP)
+
+- Run the `Scraper.php` file in command line. Syntax: `php Scraper.php`
+
 [![](screenshot/process.png)](https://github.com/crsiwal/Google-Play-Store-Scraper-PHP)
 
 ## 💻 Contributing
