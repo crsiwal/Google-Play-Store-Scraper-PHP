@@ -57,6 +57,11 @@ download('urls.csv', apps_url);
 
 - After download you should remove duplicate URL's from all apps url using `Microsoft Excel` remove duplicate tool.
 
+## Preview
+
+[![](screenshot/urls.png)](https://github.com/crsiwal/Google-Play-Store-Scraper-PHP)
+[![](screenshot/download.png)](https://github.com/crsiwal/Google-Play-Store-Scraper-PHP)
+[![](screenshot/process.png)](https://github.com/crsiwal/Google-Play-Store-Scraper-PHP)
 
 ## 💻 Contributing
 
