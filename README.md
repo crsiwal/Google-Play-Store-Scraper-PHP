@@ -17,7 +17,7 @@ Using this script you can download the applications following data in the CSV fo
 
 ### Process
 
-- Get the Applications Playstore URL and save these url in the `urls.csv` file. Sample file is available [here](https://github.com/crsiwal/Google-Playstore-Apps-Data-Scraper)
+- Get the Applications Playstore URL and save these url in the `urls.csv` file. Sample file is available [here](https://github.com/crsiwal/Google-Play-Store-Scraper-PHP/blob/main/urls.csv)
 - Then run the `Scraper.php` file in command line. Syntax: `php Scraper.php`
 
 ### Get Playstore Apps URL
